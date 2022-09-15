@@ -1,0 +1,189 @@
+﻿PlaceID,TYPE,TypeID,NAME_TH,NAME_EN,LAT,LONG,X,Y,PRICE,WEB,TEL
+1,A,1,ท่าอากาศยานเชียงใหม่,Chiang Mai International Airport,18.767749,98.9618201,495976.02,2075130.14,-,-,-
+2,B,1,สถานีขนส่งผู้โดยสารจังหวัดเชียงใหม่ แห่งที่ 1,Chiang Mai Bus Terminal 1,18.7787379,98.9492341,494649.86,2076346.35,-,-,-
+3,B,2,สถานีขนส่งผู้โดยสารจังหวัดเชียงใหม่ แห่งที่ 3,Chiang Mai Bus Terminal 3,18.8097823,98.9509661,494833.34,2079781.18,-,-,-
+4,B,3,รถแดงเชียงใหม่,Chiang Mai red car,18.7787307,99.0395817,504171.48,2076345.28,-,-,-
+5,TR,1,สถานีรถไฟเชียงใหม่,Chiang Mai Railway Station,18.7836177,99.0168009,501770.58,2076885.62,-,-,-
+6,AC,1,ออนเซน แอท ม่อนแจ่ม,Onsen At Moncham,18.9253592,98.8205796,481107.64,2092578.22,"เริ่มต้นที่ 5,000 บาท",http://www.onsenmoncham.com/ ,053-111606
+7,AC,2,ม่อนแสนลี้,Mon saenli ,19.2135747,98.8422956,483422.95,2124466.84,1400 - 2800 บาท,https://reservation.roomscope.com/1690/th,097-973-3213
+8,AC,3,คูลดาวส์ รีสอร์ท,Cool downs Resort,18.9114782,98.9053041,490027.99,2091035.41,"เริ่มต้น 2,640 บาท",https://www.facebook.com/cooldowns/,"053-044304,082-3862555,082-7660222"
+9,AC,4,แอท นาตา เชียงใหม่ ชิควิว,At NaTa Chiangmai Chic View,18.9397242,98.8671722,486014.83,2094163.33,"เริ่มต้นที่ 2,250 บาท",https://www.atnatachicview.com/th,"091-7351174 , 081-6031717"
+10,AC,5,อยู่ดินกินดีฟาร์มสเดย์,youdinkindee,18.9005548,98.9070925,490215.75,2089826.71,"เริ่มต้นช่วง Low  1,000 บาท , ราคาเริ่มต้นช่วง Hi 1,600 บาท ",http://www.youdinkindee.com/,091-4798687
+11,AC,6,เดอะกระโจม แม่ริม,TheKrajom,18.9008031,98.9090598,490422.91,2089854.04,ราคาท่านละ 1500 บาท,https://www.facebook.com/pages/category/Product-Service/TheKrajom-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%88%E0%B8%A1-%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A3%E0%B8%B4%E0%B8%A1-%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-100942467994070/,061-4532653
+12,AC,7,พักแรม รีสอร์ท,Pak Ram Resort,18.927451,98.9053258,490031.26,2092802.77,"Low Season เริ่มต้น 2,000 บาท , Hi Season เริ่มต้น 3,000 บาท ",https://www.facebook.com/PAKRAMVILLA/?__tn__=kC-R&eid=ARBI6cekliJDQdgWz0Pq6IrKLlbykN9dxSLYz-_gjQzrPHNlgq5yeafaZmb7h5dKwDuqNOfdDwQn90zI&hc_ref=ARSh_wiq_85IzVyfJvez7I_Q2TnJWE668HtvT2tiQ-XVqG2njK9OprF72l3H1VeEgFY&__xts__[0]=68.ARBH1zd_KIC6Kd-NSVmQWSgB7kQlmfeA_lpWK2BXcrK8CLKXrQLykw-NY3rUPvbEn8TVY4eNsiz5vu2ulfnywfUpwuanSWhyCVl-JiUh6SLdWOPJYG6ThQbjPuixhdfDQSXz5nL7s83RxMAkee5l1vkCYhRVsYDx1DWvUKoiukBYVm3w9sJL4KKVruvBFsFNniCR9dpMPRNduzTcR6VGptQadYIDP7kUMJo1IDG7uDXtBgmWB-1nzkAj0KWv3K8WcIExzGGgpZFGOMyq5nKy8KrDIhhnPnlBJRnXO4sucytPpXLl6qb5587p4974WwnrgS41HWV_cs6E-lqkGibFo73ftEE6CFeeDxKgLUr4MgNBGXrg3VHChdKy6yPhcrAKIGMi73t53AusxGc4mwPOZuhSbSTL27pvsTVysbHlOMLJ, 094-6961456
+13,AC,8,ภูแสงเทียน,Phusangthian,18.9429242,98.7965701,478581.69,2094524.48,"เริ่มต้น 1,500 บาท",https://www.facebook.com/Phusangthian/  ,089 552 5114
+14,AC,9,พราวภูฟ้า รีสอร์ท,Proud Phu Fah  Chiang mai,18.880821,98.8112987,480125.11,2087651.23,"เริ่มต้น  5,500-14,000 บาท",https://www.facebook.com/Proud-Phu-Fah-Chiang-mai-251464931532831/,"053-879389, 053-879286, 081-6477437, 053-879118"
+15,AC,10,ฟลอร่า ครีค,Flora Creek Chiang Mai,18.772676,98.8596583,485209.07,2075680.69,"เริ่มต้น 1,500 - 12,000บาท",https://www.floracreekchiangmai.com/th/,052-001400
+16,AC,11,พอเทล เชียงใหม่,Pawtel Chiangmai,18.9538735,98.9215529,491741.19,2095725.56,"เริ่มต้นที่ 2,000-3,500 บาท",www.pawtelchiangmai.com,053-044565
+17,AC,12,แอท นาธา เชียงใหม่ ชิคจังเกิ้ล รีสอร์ท,At NaTa Chiangmai Chic Jungle Resort,18.9063336,98.9041163,489902.58,2090466.31,"เริ่มต้น 2,400 บาท",https://www.facebook.com/atnatachiangmai/,"053-044121, 081-6031717"
+18,AC,13,รายา เฮอริเทจ,Raya Heritage,18.8488569,98.9830616,498215.67,2084104.03," เริ่มต้น 5,000-9,000บาท ",https://www.rayaheritage.com/en/ ,053-111670
+19,AC,14,โมริ เนเชอรัล ฟาร์ม,Mori Natural Farm,18.8669499,98.8290823,481996.63,2086114.55,"เริ่มต้น 3,300 บาท /หลัง",-,081-787-8595
+20,AC,15,สเตย์ ไวลด์ แอนด คาเฟ่,Stay Wild & Café,19.2251325,98.8127302,480316.48,2125748.82,"เริ่มต้น 2,400 บาท",https://www.facebook.com/Stay-Wild-Caf%C3%A9-415176748866164/,089-4416365
+21,AC,16,บ้านธารกล่อม,bannthanklom,19.2321967,98.877688,487144.63,2126524.38,"เริ่มต้น 1,500 บาท",https://www.facebook.com/bannthanklom/ ,095-6901827
+22,AC,17,บ้านพัก แม่กลางหลวงวิว,Maekalng Luang View,18.54064,98.5470878,452201.38,2050061.61,"ห้องแถว 2 ท่าน 600 บาท หลัง 4 ท่าน 1,500 บาท หลัง 10 ท่าน 4,000 บาท (ไม่รวมอาหารเช้า)",https://www.facebook.com/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%81-%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B8%A7-278264125660345/,086-1894075
+23,AC,18,บ้านระเบียงนา ป่าบงเปียง,Ban rabiangna pa bong piang,18.5304646,98.4424215,441151.49,2048966.75,ราคาท่านละ 500 บาท,https://www.facebook.com/sombutchai02577/,0807946883
+24,AC,19,บ้านไม้ไผ่ยักษ์,Giant bamboo hut,18.5407179,98.5399991,451453.25,2050072.13,"ท่านละ 1,200 บาท",https://www.facebook.com/Giant-Bamboo-Hut-356513381353632/,081-8812471
+25,AC,20,วู มะ คา มู,Woo Ma Ca Moo,18.8639651,99.3402501,535840.44,2085810,"เริ่มต้น 4,800 บาท",https://www.facebook.com/woomacamoo/,0643344135 
+26,AC,21,พาสเทล โอลด์ทาวน์ เชียงใหม่,Pastell Oldtown Chiang Mai,18.7827693,98.9801791,497911.15,2076791.72,"เริ่มต้น 1,600 บาท",https://www.pastellhotel.com/,053-272989
+27,AC,22,เดอะ เอิร์ธ โฮเทล,The Earth Creative Lifestyle Hotel,18.797828,98.9729235,497146.72,2078458.03,"เริ่มต้น 2,200 บาท",https://www.facebook.com/TheEarthHotel/,053-218889
+28,AC,23,ศาลาล้านนา เชียงใหม่,Sala Lanna Chiang Mai,18.7911939,99.0006895,500072.61,2077723.79,"ราคาเริ่มต้นช่วง Low Season 1,700 บาท , ราคาเริ่มต้นช่วง Hi Season 2,250 บาท ",https://www.salahospitality.com/lanna/,053-242588
+29,AC,24,พาร์ค โบโร ซิตี้ รีสอร์ต,Parc Borough City Resort,18.7684638,98.9787448,497759.84,2075208.96,"เริ่มต้น 4,000 บาท",https://www.facebook.com/parcboroughhotel/?__tn__=%2Cd%2CP-R&eid=ARDyky10UhUjDGpymAhUVEz2SBDj9S4M45mPm8z42NzUTwk4py4k0btBbjvQR2o_s1Q10WvI17-EoVTj,053-284100
+30,AC,25,วินทรี ซิตี้ รีสอร์ท เชียงใหม่,Wintree City Resort Chiang Mai,18.8106228,98.9769258,497568.73,2079873.68,"เริ่มต้น 2,500 บาท",http://www.facebook.com/wintreecityresort/,"052-081377, 094-6016777"
+31,AC,26,ครอสทูไวบ์ เชียงใหม่ เดเซม โฮเทล,X2 Vibe Chiang Mai Decem Hotel,18.8048359,98.966789,496500.49,2079233.54,"เริ่มต้น 1,800 บาท",-,053-214828
+32,AC,27,สุเนต์ตาโฮสเทล เชียงใหม่,Suneta Hostel Chiang Mai,18.8016707,99.0029287,500308.64,2078883.02,เริ่มต้น 450 บาท ,https://www.sunetahostel.com/,053-232345
+33,AC,28,S17 นิมมาน,S17 Nimman,18.7949563,98.967696,496595.86,2078140.35,"เริ่มต้น 1,190 บาท",https://www.s17nimman.com/,053-221717
+34,AC,29,ฮอม บูทีค โฮเทล,Homm Boutique Hotel,18.7996213,98.9587554,495653.8,2078656.7,เริ่มต้น 1000 บาท,-,092-9927488 
+35,AC,30,ครอสทูเชียงใหม่ ริเวอร์ไซด์ รีสอร์ต,X2 Chiang Mai Riverside,18.8016707,99.0029287,500308.64,2078883.02,"เริ่มต้น 6,230 บาท",https://www.facebook.com/X2chiangmairiverside/,053-931999
+36,AC,31,บริคโฮเทล เชียงใหม่ ,Brique Hotel Chiang Mai,18.8021445,99.0222819,502347.94,2078935.61,"เริ่มต้น  1,800-4,500 บาท",https://www.facebook.com/BriqueHotelChiangmai/,052-012555
+37,AC,32,ไทยอัครา ล้านนา บูติก โฮเทล,Thai Akara - Lanna Boutique Hotel,18.790238,98.9875653,498689.59,2077618.06,"1,200-8,000 บาท",https://www.facebook.com/thaiakarahotel/,0-5321-5995
+38,AC,33,ฮอไรซั่น วิลเลจ แอนด์ รีสอร์ท,Horizon Village Resort,18.8575373,99.0952696,510035.66,2085067.05,"999-1,599 บาท",https://www.facebook.com/HorizonVillageResort/,09-1559-4641
+39,AC,34,เดอะ ลานนา,De Lanna Hotel Chiang Ma,18.7896075,98.9809071,497987.95,2077548.3,"950-4,300 บาท",https://www.facebook.com/DeLannaCM/,0-5332-6266
+40,AC,35,โรงแรมอาร์ค39 มินิมอล อาร์ต แอนด์ คราฟต์,Arch39 Minimal Art&Craft Hotel,18.7896327,98.974341,497296.02,2077551.27,"1,200-6,000 บาท",https://www.facebook.com/arch39hotel/,09-1879-5989
+41,AC,36,โรงแรม เชียงใหม่ออคิด,Chiang Mai Orchid Hotel,18.7968752,98.9731628,497172,2078352.58,"500-3,500 บาท",https://www.facebook.com/chiangmaiorchidhotel/,0-5322-2099
+42,AC,37,โรงแรม อรุณธารา ริเวอร์ไซด์ บูติค,Aruntara Riverside Boutique Hotel,18.7689863,98.9989119,499885.33,2075266.58,"1,350-5,100 บาท",https://www.facebook.com/AruntaraRiversideBoutiqueHotel/,0-5323-5111
+43,AC,38,เก๊าไม้ล้านนา รีสอร์ท,Kaomai Lanna Resort,18.6790452,98.7988733,478791.12,2065327.02,"1,080-5,400 บาท",https://www.facebook.com/kaomailanna/,08-6428-7481 / 0-5348-1201
+44,AC,39,โชตนา วิลล่า โฮเทล,Chotana Villa,18.816379,98.9788473,497771.22,2080510.53,"900-5,500 บาท",https://www.facebook.com/chotanavilla,08-8251-9085
+45,AC,40,เดอ ณารา,De Nara Hotel,18.7833948,98.9896269,498906.84,2076860.9,"900-2,000 บาท",https://www.facebook.com/denarahotel,0-5327-1224
+46,AC,41,อนันตรา เชียงใหม่ รีสอร์ท,Anantara Chiang Mai Resort,18.7815954,99.0015253,500160.71,2076661.71,"1,999-70,000 บาท",https://www.facebook.com/AnantaraChiangMai/,05-325-3333
+47,AC,42,กอดเชียงใหม่,GordChiangmai,18.783558,98.985292,498449.99,2076878.97,"1,490-2,990 บาท",https://www.facebook.com/GordChiangmaiHotels/,08-1951-8875
+48,AC,43,โรงแรม ดาร์เลย์,Darley Hotel Chiangmai,18.7917011,98.9980414,499793.56,2077779.89,"800-4,000 บาท",https://www.facebook.com/DarleyhotelChiangmai/,08-0099-8881
+49,AC,44,โรงแรม รติล้านนา ริเวอร์ไซด์ สปา รีสอร์ท,"RatiLanna Riverside Spa Resort, Chiang Mai",18.7628189,99.0018412,499793.56,2074584.23,"3,000-6,000 บาท",https://www.facebook.com/RatiLannaCM/,0-5399-9333
+50,AC,45,ป่าไผ่ คันทรี ลอดจ์,Papai Country Lodge - Chiang Mai,18.8262775,99.1841105,519397.71,2081615.62,"1,250-5,000 บาท",https://www.facebook.com/papaicountrylodge/,08-1882-7100
+51,AC,46,โรงแรม สบาย สบาย,Sabai Sabai Chiang Mai,18.8007693,98.9709129,496934.97,2078783.47,"2,200-4,629 บาท",https://www.facebook.com/SabaiSabaiChiangMaiThailand/,0-5321-3234
+52,AC,47,โรงแรม ดุสิตดีทู,dusitD2 chiang mai,18.785981,98.9977283,499760.57,2077147,"1,800-8,000 บาท",https://www.facebook.com/dusitD2CM/,0-5399-9999
+53,AC,48,ร็องเดวู คลาสสิค เฮาส์,Rendezvous Classic House,18.782055,98.9803613,497930.32,2076712.72,"700-2,400 บาท",https://www.facebook.com/rendezvousclassichouse/,0-5327-1577
+54,F,1,ฟอลอินเค้ก,fall in CAKE ,18.7659248,98.9897888,498923.8,2074927.93,-,https://www.facebook.com/fallincakecm,081-024-8119
+55,F,2,ภูฟิน ดอย,Phufinn Doi,18.6955043,98.8779288,487128.84,2067140.59,-,https://www.facebook.com/phufinn/,092-9590399
+56,F,3,เก้าคาเฟ่,Gao café,18.7980802,98.9676801,496594.24,2078486,-,https://www.facebook.com/gaocafenimman,093-5565255
+57,F,4,ภูฟินอินเดอะเลค,Phufinn in the Lake,18.7328124,98.9721188,497060.88,2071264.34,-,https://www.facebook.com/phufinn/,093-1511041
+58,F,5,ผลิ ,Phli ,18.8522308,99.043674,504600.73,2084477.83,-,https://www.facebook.com/phlicafe/,063 669 0955
+59,F,6,ทะเมโทซีเอ็นเอกซ์,Tomato cnx,18.7870474,99.0081534,500859.19,2077264.96,-,https://www.facebook.com/tomato.cnx/,099 037 4242
+60,F,7,คีพอินทัช,keep in touch,18.8400077,98.9806554,497962,2083124.95,-,https://www.facebook.com/keepintouchchiangmai/,089 999 0509
+61,F,8,เนเจอร์ทอร์ค,NatureTalk,18.8880994,98.9782028,497704.34,2088446.07,-,https://www.facebook.com/Naturetalkthailand/,091 447 5348
+62,F,9,เดอะบารีสโทร แอท ปิงริเวอร์,The Baristro at Ping river,18.81582,99.00025,500026.34,2080448.54,-,https://www.facebook.com/thebaristroatpingriver/,081 883 7402
+63,F,10,เดอะบารีสโทร แอท เทรนสเตชั่น,THE BARISTRO AT TRAIN STATION  ,18.7821506,99.0162955,501717.27,2076723.3,-,https://www.facebook.com/thebaristroattrainstation/,065 354 1963
+64,F,11,ทรานซิสนัมเบอร์เอท,Transit No.8 ,18.7871157,98.9602837,495814.61,2077273.04,-,https://www.facebook.com/transitnumber8/,062 592 4259
+65,F,12,เยลโลคัพ,Yellow cup,18.7439219,99.0740063,507800.96,2072495,-,https://www.facebook.com/%EF%B8%8FYellow-cup-113047243805780/?ref=page_internal,083 - 5711915
+66,F,13,เอเวอร์กรีนคาเฟ่แอนด์โฮเทล,EVERGREEN.Cafe.Hotel,18.7860784,98.9705143,496892.66,2077157.98,-,https://www.facebook.com/evergreen.cafe.hotel/,090 051 0007
+67,F,14,แมทชาพเพน,Matchappen,18.8360397,99.0076069,500801.42,2082685.82,-,https://www.facebook.com/matchappen/,092 580 1377
+68,F,15,แม็กซ์ คอฟฟี่,max coffee,18.7460643,98.9546564,495220.36,2072730.99,-,https://www.facebook.com/MAXCoffee.cm/,098 510 3010
+69,F,16,อันดูสตูดิโอ,Undo studio,18.7626281,98.998022,499791.52,2074563.1,-,https://www.facebook.com/Undostudio-106407727604838,065 478 8974
+70,F,17,โคโค คอร์นเนอร์ โคโคนัท,Coco corner coconut,18.7965127,98.9686473,496696.11,2078312.6,-,https://www.facebook.com/cococornercoconut/,063 672 2759
+71,F,18,เกรนคาเฟ่ซีเอ็นเอกซ์,Graincafe.cnx,18.7725897,98.951858,494926.22,2075666.03,-,https://www.facebook.com/graincafecnx/,095 448 2333
+72,F,19,แฟลตคาเฟ่,Flat Cafe,18.7858797,98.9648589,496296.71,2077136.18,-,https://www.facebook.com/flatcafecnx,09-2650-6707
+73,F,20,บิกุริ, Biguri ,18.814021,98.9841976,498335,2080249.57,-,https://www.facebook.com/biguridonut/,098 329 7673
+74,F,21,หีบ,Heap,18.7883297,98.9953381,499508.71,2077406.91,-,https://www.facebook.com/Heap-Chiangmai-105775788048888/,06-1152-5151
+75,F,22,เซลฟ์คอฟฟี่,SELF Coffee,18.7870472,98.9993986,499936.66,2077264.94,-,https://www.facebook.com/selfcoffeechiangmai/,08-7198-6779
+76,F,23,โฮม,Home’s,18.7864902,99.0460032,504847.95,2077203.94,-,https://www.facebook.com/homes.26.9/,06-4515-6269
+77,F,24,บรรยากาศ,Banyakat ,18.9274483,98.8222838,481287.29,2092809.18,-,https://www.facebook.com/banyakat/,06-6115-2124
+78,F,25,ชอบคัพคาเฟ่,Chxb Cup Cafe,18.8341113,99.0013864,500146.02,2082472.36,-,https://www.facebook.com/Chxb-Cup-Cafe-%E0%B8%8A%E0%B8%AD%E0%B8%9A-%E0%B8%84%E0%B8%B1%E0%B8%9E-%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%9F%E0%B9%88-1060472287675072/,06-1224-2823
+79,F,26,ช.ศรีนวล คาเฟ่,ch.srinual cafe,18.7512999,99.1231757,512983.41,2073314.2,-,https://www.facebook.com/chsrinual.cafe/,080 557 4111
+80,F,27,คริสป์ คาเฟ่,KRISP Cafe ,18.8090243,98.9802882,98.9802882,2079696.71,-,https://www.facebook.com/krispcafe2021,063 525 4245
+81,F,28,กลิน คาเฟ่,Glin Cafe,18.797586,98.9771429,497591.41,2078431.19,-,https://www.facebook.com/glin.cafe/,09-2558-2255
+82,F,29,แดนข้าวมันไก่ สาขาสันทราย,Dan Chicken Rice,18.8218028,99.0311178,503278.64,2081110.82,-,-,081-022-1128
+83,F,30, ข้าวซอยลุงประกิจกาดก้อม,Khao Soi Lung Prakit Kaat Gorm,18.7744964,98.9875067,498683.35,2075876.28,-,-,083-209-9441
+84,F,31,ครัวหลองข้าว,Krua Lawng Khao,18.916976,98.9493103,98.9493103,2091641.84,-,https://www.facebook.com/Lhongkao.Kitchen/,08-3476-3421
+85,F,32, สวนทูนอิน,Tune In garden,18.8687605,98.8197066,481009.33,2086315.91,-,https://www.facebook.com/tuneingardenchiangmai/,0-5387-9251
+86,F,33,บ้านลันได,BAAN Landai,18.7940972,98.9852849,498449.35,2078045.06,-,https://www.facebook.com/baanlandaifinethaicuisine/,06-5848-4464
+87,F,34, แมกโนเลีย คาเฟ่,Magnolia Café,18.8005194,98.9949046,499463.12,2078755.56,-,https://www.facebook.com/PinnFood/,06-1684-8222
+88,F,35,จินเจอร์ฟาร์มคิชเช่น,Ginger Farm Kitchen,18.7998595,98.9653631,496350.12,2078683,-,https://www.facebook.com/gingerfarmkitchen/,0-5208-0928
+89,F,36,โกเหน่ง,Patongo Kong Neng Chiangmai,18.7899409,98.9994982,499947.1,2077585.15,-,https://www.facebook.com/%E0%B8%9B%E0%B8%B2%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%81%E0%B9%8B-%E0%B9%82%E0%B8%81%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%87-217164521708876,09-4637-6333
+90,F,37,ฮ้านถึงเจียงใหม่ ,Han Teung Jiang Mai,18.7890017,98.9525904,495003.85,2077481.92,-,-,09-1076-6100
+91,F,38,เฮือนสุนทรี,Huan Soontaree,18.830827,98.9922036,499178.65,2082109.02,-,https://www.facebook.com/huansoontaree,08-3860-8196
+92,F,39, เฮือนม่วนใจ๋,Huen Muan Jai,18.7998672,98.9733593,497192.7,2078683.63,-,https://www.facebook.com/Huen-Muan-Jai-%E0%B9%80%E0%B8%AE%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B9%83%E0%B8%88%E0%B9%8B-301752539835951/,09-8261-8029
+93,F,40,ข้าวซอยแม่มณี,Khao Soi Mae Manee,18.8244138,98.9648398,496295.55,2081399.8,-,https://www.facebook.com/khaosoimaemani/,0-5321-8519
+94,F,41,มีนา,Meena,18.7848281,99.0437651,504612.15,2077019.99,-,https://www.facebook.com/meena.rice.based/,09-5693-9586
+95,F,42,ณ จันตรา,Chantra Khiri Chalet Chiangmai,18.7831359,98.8396875,98.8396875,2076839.82,-,https://www.facebook.com/Chantrakhirichaletchiangmai,05-2010-155
+96,F,43,เนื้อวัวรสเยี่ยม,Rote Yiam Beef Noodle,18.777916,98.9971085,499695.22,2076254.64,-,-,0-5327-2422
+97,F,44,โรตีป้าเด,Rotee Pa Day,18.7695737,98.9629227,496092.31,2075332.05,-,https://www.facebook.com/%E0%B9%82%E0%B8%A3%E0%B8%95%E0%B8%B5%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%81%E0%B8%9E-Thapae-Rotee-Padae-102385068341402/,081-021-9496
+98,F,45,ครัวอาจารย์สายหยุดแอนด์หมอทราย,Ajarn Saiyud's Kitchen,18.8219675,98.9848389,498402.62,2081128.75,-,https://saiyudkitchenbydoctorsai.wordpress.com/,08-1530-1172
+99,F,46,ท่าจีนชมจันทร์,Thajene Chomchan,18.8119774,98.9695611,496792.72,2080023.61,-,https://www.facebook.com/thajenechomchanplus/?__xts__[0]=68.ARBTUXoDGpynEBP41QexK-6HS15kGB27nJBO0epKgzfMAhHB8mspHNGYT7wCzXpjhvP2ezd1pnEHrsq01bKnaYiCHQY7zhyGms2gpFJ5uvChsrSDQ-kDgjRQjBSzQmD0dgZqE_vBHwui8YxHvq3UvTIGbHoY1SllqpieZFfb57BHdO3bLAw_8fnIMvuTG1anE2HSnVcM1c6S4J6ZL-ORfWaPnJkd6oXjouXKNks_k5p44x3yAD1W4FU1kb6Z4-A7XrmkLAMYnpv_V7DHTm6Ratrxo6GeVBNb0fJmP5uZGw7JWt-GloVyuIs,063 525 1719
+100,F,47,เดอะกู้ดวิวบาร์แอนด์เรสเทอรองค์,The Good View Bar & Restaurant,18.7904056,99.0014862,500156.6,2077636.6,-,https://www.facebook.com/goodview.cm/,099 271 0666
+101,F,48,คำดารา,Comedara Restaurant,18.7930324,98.9987695,499870.28,2077927.15,-,https://www.facebook.com/Comedara/,086 421 7191
+102,F,49,กิน อยู่ ได้ at เชียงใหม่,Kinyoudai,18.7601635,99.0013804,500145.45,2074290.47,-,https://www.facebook.com/kinyoudaiatchiangmai/,087 423 5226
+103,F,50,ชมคาเฟ่,Chom Cafe and Restaurant,18.7484954,98.9433265,494026.16,2073000.3,-,https://www.facebook.com/chomcafeandrestaurant/,063-438-8188
+104,F,51, ลามูร์ คาเฟ่ เชียงใหม่,Lamour Cafe,18.7763633,98.9470764,494422.35,2076083.64,-,https://www.facebook.com/LamourCafeChiangmai/,081-818-5707
+105,F,52,คั่วไก่นิมมาน,Kuakai Nimman,18.7942747,98.9672264,496546.32,2078065,-,https://www.facebook.com/kuakainimman/,053-218-278
+106,F,53,ครัวคนบ้านไกล แม่โจ้ เชียงใหม่,Kon Ban Klai kitchen,18.8940288,99.0323945,503411.62,2089102.37,-,https://www.facebook.com/konbanklaikitchen/,081-870-4049
+107,F,54,จริณพาย,Charin Pie,18.7949181,98.9660185,496419.14,2078136.17,-,https://www.facebook.com/CharinPie/?__xts__[0]=68.ARBTUXoDGpynEBP41QexK-6HS15kGB27nJBO0epKgzfMAhHB8mspHNGYT7wCzXpjhvP2ezd1pnEHrsq01bKnaYiCHQY7zhyGms2gpFJ5uvChsrSDQ-kDgjRQjBSzQmD0dgZqE_vBHwui8YxHvq3UvTIGbHoY1SllqpieZFfb57BHdO3bLAw_8fnIMvuTG1anE2HSnVcM1c6S4J6ZL-ORfWaPnJkd6oXjouXKNks_k5p44x3yAD1W4FU1kb6Z4-A7XrmkLAMYnpv_V7DHTm6Ratrxo6GeVBNb0fJmP5uZGw7JWt-GloVyuIs,053-221-863
+108,F,55,สวนผัก โอ้กะจู๋,Ohkajhu Organic Farm,18.8404143,99.0214402,502258.7,2083169.9,-,https://www.facebook.com/ohkajhuorganic/?__xts__[0]=68.ARBTUXoDGpynEBP41QexK-6HS15kGB27nJBO0epKgzfMAhHB8mspHNGYT7wCzXpjhvP2ezd1pnEHrsq01bKnaYiCHQY7zhyGms2gpFJ5uvChsrSDQ-kDgjRQjBSzQmD0dgZqE_vBHwui8YxHvq3UvTIGbHoY1SllqpieZFfb57BHdO3bLAw_8fnIMvuTG1anE2HSnVcM1c6S4J6ZL-ORfWaPnJkd6oXjouXKNks_k5p44x3yAD1W4FU1kb6Z4-A7XrmkLAMYnpv_V7DHTm6Ratrxo6GeVBNb0fJmP5uZGw7JWt-GloVyuIs,053-200-888
+109,F,56,ภัตตาคารตูลู่,TULOU Restaurant ,18.7747497,98.9802484,497918.32,2075904.45,-,https://www.facebook.com/tulouchiangmai/?__xts__[0]=68.ARBTUXoDGpynEBP41QexK-6HS15kGB27nJBO0epKgzfMAhHB8mspHNGYT7wCzXpjhvP2ezd1pnEHrsq01bKnaYiCHQY7zhyGms2gpFJ5uvChsrSDQ-kDgjRQjBSzQmD0dgZqE_vBHwui8YxHvq3UvTIGbHoY1SllqpieZFfb57BHdO3bLAw_8fnIMvuTG1anE2HSnVcM1c6S4J6ZL-ORfWaPnJkd6oXjouXKNks_k5p44x3yAD1W4FU1kb6Z4-A7XrmkLAMYnpv_V7DHTm6Ratrxo6GeVBNb0fJmP5uZGw7JWt-GloVyuIs,052-080-744
+110,F,57,เฌยคาเฟ่,Choei Cafe & Bistro,18.7791349,98.9974403,499730.21,2076389.52,-,https://www.facebook.com/choeicafe/,053-819079
+111,F,58,หมูทอดกาดหลวง by ดำรงค์,Moo Tod Kadluang by Damrong,18.8180484,98.9754731,497415.74,2080695.24,-,https://www.facebook.com/mootodkadluangbydamrong/,093-536-3661
+112,F,59,ร็อคมีเบอร์เกอร์แอนด์บาร์,Rock Me Burger&bar,18.7958243,98.9683058,496660.16,2078236.37,-,https://www.facebook.com/Rockmeburger/,063-895-2456
+113,F,60,บุฟเฟ่ต์ขนมจีนวัดเกต หน้ารร.ปรินส์,Kanom Jene buffet,18.7939777,99.0035484,500373.88,2078031.83,-,https://www.facebook.com/kjwatket/,064-626-8789
+114,N,1,ทะเลหมอก กิ่วแม่ปาน,Kew Mae Pan nature trail,18.5481453,98.340377,430388.27,2050959.37,-,-,-
+115,N,2,สวนพฤกษศาสตร์สมเด็จพระนางเจ้าสิริกิติ์,Queen Sirikit Botanic Garden,18.8988835,98.8583747,485084.99,2089645.22,-,-,-
+116,N,3,ดอยหลวงเชียงดาว,Doi Chiang Dao,19.3922179,98.8323417,482395.75,2144234.98,-,-,-
+117,N,4,น้ำตกแม่สา,Mae Sa Waterfall,18.906237,98.8949658,488939,2090456.12,-,-,-
+118,N,5,สวนสนบ่อแก้ว,Bo Kaeo Pine Tree Garden,18.1566228,98.3863315,435091.98,2007622.16,-,-,-
+119,N,6,ผาช่อ ,Phachor (Mae Wang National Park),18.4979165,98.7268616,471167.05,2045296.26,-,-,-
+120,N,7,ทุ่งดอกไฮเดรนเยีย ,Royal Project Khun Pae,18.5697388,98.5276185,450155.11,2053286.56,-,-,-
+121,N,8,จุดชมวิวดอยกิ่วลม ,Doi Kiew Lom View Point,19.3138177,98.6019834,458187.65,2135599.35,-,-,-
+122,N,9,ป่าสนวัดจันทร์ โครงการบ้านวัดจันทร์,Wat Chan Royal Project,19.080734,98.3306603,429584.81,2109894.99,-,-,-
+123,N,10,อ่างกา ,Kew Mae Pan Nature Trail,18.5887464,98.4837071,445527.53,2055402.34,-,-,-
+124,N,11,น้ำตกแม่ยะ ,Mae Ya Water Fall,18.4397736,98.5959778,457336.16,2038889.12,-,-,-
+125,N,12,ขุนช่างเคี่ยน ,Khun Changkhian ,18.8408239,98.8984065,489297.11,2083218.19,-,-,-
+126,N,13,ดอยอ่างขาง,Doi Ang Khang,19.869721,99.0374904,503924.87,2197065.17,-,-,-
+127,N,14,ดอยผ้าห่มปก ,Doi Pha Hom Pok National Park,19.9966004,99.1421363,514868.5,2211111.37,-,-,-
+128,N,15,น้ำตกผาดอกเสี้ยว ,Pha Dok Sieo Nature Trail,18.5409389,98.5283333,450222.1,2050099.77,-,-,-
+129,N,16,อุทยานแห่งชาติออบหลวง,Op Luang National Park,18.222541,98.4796969,444988.25,2014885.01,-,-,-
+130,N,17,น้ำตกตาดหมอก ,Tad Mork Waterfall,18.9622418,98.8534573,484572.88,2096656.03,-,-,-
+131,N,18,ดอยแม่โถ,Doi Mae To,19.0188878,99.377213,539697.37,2102959.95,-,-,-
+132,N,19,น้ำตกมณฑาธาร,Montathan Waterfall,18.8225884,98.9150294,491047.37,2081199.53,-,-,-
+133,N,20,แม่กำปอง,Mae Kampong ,18.8646561,99.3512689,537001,2085888.72,-,-,-
+134,N,21,ดอยอินทนนท์,Doi Inthanon,18.5880419,98.4695516,444033.81,2055328.8,-,-,-
+135,N,22,ดอยสุเทพ,Doi Suthep,18.8163877,98.8744348,486769.86,2080516.07,-,-,-
+136,N,23,แกรนด์แคนยอน หางดง,Grand Canyon Water Park,18.6962666,98.8896924,488369.19,2067224.2,-,-,-
+137,N,24,ถ้ำเชียงดาว,Wat Tham Chiang Dao,19.393704,98.9264023,492272.22,2144392.51,-,-,-
+138,N,25,ป่าบงเปียง,Pa Bong Piang,18.5304646,98.4424215,441151.49,2048966.75,-,-,-
+139,N,26,โป่งแยง ซิปไลน์ แอนด์ จังเกิ้ล โคสเตอร์,Pongyang Jungle Coaster & Zipline,18.9168336,98.8193403,480976.1,2091635.08,-,-,-
+140,N,27,อุทยานแห่งชาติห้วยน้ำดัง,Huai Nam Dang National Park,19.303936,98.5966806,457628.11,2134507.15,-,-,-
+141,N,28,ดอยม่อนจอง,Doi Mon Chong,17.4432306,98.5483006,452033.73,1928645.21,-,-,-
+142,N,29,ม่อนวิวงาม,Mon View Ngarm,18.9331406,98.8126602,480274.6,2093440.14,-,-,-
+143,N,30,ดอยสองแสน สถานีวิจัยดอยปุย,Doi Pui Research Station,18.8120444,98.882224,487590.23,2080034.86,-,-,-
+144,N,31,สันป่าเกี๊ยะ ดอยแม่ตะมาน,Watershed Management Unit of Mae Tamaan,19.3185456,98.8278133,481912.08,2136083.46,-,-,-
+145,N,32,ศูนย์วิจัยข้าวสะเมิง,Samoeng Rice Research Center,18.8475971,98.7680826,475568.57,2083980.51,-,-,-
+146,N,33,อ่างเก็บน้ำห้วยตึงเฒ่า,Huay Tung Tao Reservoir,18.8665082,98.9388772,493561.7,2086058.07,-,-,-
+147,N,34,กิ่วแม่ปาน,Kew Mae Pan,18.5616655,98.4583237,442840.36,2052413.91,-,-,-
+148,N,35,สวนสัตว์ เชียงใหม่,Chiang Mai Zoo,18.8105616,98.9457531,494284.08,2079867.64,-,-,-
+149,N,36,ดอยม่อนอังเกตุ,Doi Mon Angket,19.0683564,98.6385768,461975.63,2108430.1,-,-,-
+150,N,37,ออบขาน,Ob Khan National Park,18.723072,98.8193777,480958.3,2070196.07,-,-,-
+151,N,38,น้ำตกแม่สะป๊อก,Mae Sapok Waterfall,18.669289,98.6152537,459425.95,2064279.27,-,-,-
+152,N,39,ขุนวาง,Royal Agricultural Research Centre Chiang Mai,18.6214412,98.5033419,447609.2,2059014.09,-,-,-
+153,N,40,น้ำตกผาดอกเสี้ยว,Pha Dok Sieo Nature Trail,18.5409389,98.5283333,450222.1,2050099.77,-,-,-
+154,N,41,น้ำตกสิริภูมิ,Siriphum Waterfall,18.5472274,98.5116428,448462.56,2050800.2,-,-,-
+155,N,42,ม่อนจอง,Mon Jung,17.5683056,98.5220513,449280.9,1942489.5,-,-,-
+156,N,43,เขื่อนแม่งัดสมบูรณ์ชล,Mae Ngat Somboon Chon Dam,19.1741473,99.0285291,502999.54,2120096.86,-,-,-
+157,N,44,น้ำตกบัวตอง,Namtok Bua Tong,19.0693282,99.0771483,508116.45,2108500.26,-,-,-
+158,N,45,น้ำตกหมอกฟ้า,Mork Fa Water Fall,19.1127634,98.7725013,476071.88,2113320.06,-,-,-
+159,N,46,โป่งเดือดป่าแป๋,Pong Dueat Hot Spring,19.2425233,98.6816923,466546.82,2127693.06,-,-,-
+160,N,47,น้ำตกศรีสังวาลย์ ,Sri Sangwan Waterfall,19.6294166,98.9533123,495104.86,2170474.11,-,-,-
+161,N,48,ดอยเวียงผา,Doi Wiang Pha National Park,19.6645917,99.1929079,520221.61,2174377.21,-,-,-
+162,N,49,น้ำพุร้อนฝาง,Fang Hot Spring National Park,19.965911,99.1520743,515911.17,2207716.24,-,-,-
+163,N,50,ถ้ำเมืองออน,Tham Muang On,18.7875116,99.235873,524857.01,2077332.87,-,-,-
+164,N,51,น้ำพุร้อนสันกำแพง,San Kamphaeng Hot Springs,18.8118519,99.2225227,523446.77,2080024.18,-,-,-
+165,T,1,วัดพระธาตุดอยสุเทพ,Wat Phra That Doi Suthep,18.8049889,98.919445,491511.76,2079252.06,-,-,-
+166,T,2,วัดพระสิงห์วรวิหาร,Wat Phra Singh Woramahawihan,18.7885802,98.9792284,497811,2077434.69,-,-,-
+167,T,3,วัดเจดีย์หลวง,Wat Chedi Luang,18.7869693,98.9843917,498355.18,2077256.38,-,-,-
+168,T,4,วัดพันเตา,Wat Phantao,18.787683,98.9854279,498464.36,2077335.38,-,-,-
+169,T,5,วัดเชียงมั่น,Wat Chiang Man,18.7938126,98.9870816,498638.72,2078013.62,-,-,-
+170,T,6,วัดอุโมงค์,Wat Umong,18.7833134,98.9490015,494625.45,2076852.56,-,-,-
+171,T,7,วัดสวนดอก,Wat Suan Dok,18.7882387,98.9655732,496372,2077397.18,-,-,-
+172,T,8,วัดโลกโมฬี,Wat Lok Moli,18.7960243,98.9803788,497932.39,2078258.32,-,-,-
+173,T,9,วัดเจ็ดยอด,Wat Chet Yot,18.8090047,98.969525,496788.87,2079694.77,-,-,-
+174,T,10,วัดพระธาตุดอยคำ,Wat Phrathat Doi Kham,18.7594962,98.9164806,491197.08,2074218.62,-,-,-
+175,T,11,วัดพระธาตุศรีจอมทองวรวิหาร,Wat Phrathat Si Chom Thong Worawihan,18.4210542,98.6767325,465859.99,2036800.77,-,-,-
+176,T,12,วัดป่าดาราภิรมย์,Wat Pa Dara Phirom Phra Aram Luang,18.9107217,98.9390768,493584.45,2090950.19,-,-,-
+177,T,13,วัดอินทราวาส,Wat Intharawat,18.7228396,98.9231889,491902.36,2070162.51,-,-,-
+178,T,14,วัดบ้านเด่น,Wat Ban Den,19.1577357,98.9762956,497507.52,2118280.91,-,-,-
+179,T,15,วัดศรีสุพรรณ,Wat Sri Suphan,18.7787237,98.9814728,498047.47,2076344.14,-,-,-
+180,T,16,วัดเจ็ดลิน,Wat Jet Lin,18.7837361,98.9861586,498541.36,2076898.65,-,-,-
+181,T,17,วัดผาลาด,Wat Pha Lat,18.7993968,98.9319581,492830.05,2078632.78,-,-,-
+182,T,18,วัดเกตการาม,Wat Ket Karam,18.792178,99.0005739,500060.49,2077832.66,-,-,-
+183,T,19,วัดดวงดี,Wat Duang Dee,18.7894394,98.9863872,498565.44,2077529.66,-,-,-
+184,T,20,วัดพันอ้น,Wat Phan On,18.7876547,98.9889978,498840.58,2077332.25,-,-,-
+185,T,21,วัดเชียงยืน,Wat Chiang Yuen,18.796385,98.9863278,498559.28,2078298.2,-,-,-
+186,T,22,วัดหมื่นเงินกอง,Wat Muen Nguen Kong,18.785235,98.9788388,497769.97,2077064.59,-,-,-
+187,T,23,วัดชัยมงคล,Wat Chai Mongkhon,18.7806433,99.0024433,500257.46,2076556.37,-,-,-
+188,T,24,วัดลอยเคราะห์,Wat Loi Kroh,18.7846596,98.9946215,499433.14,2077000.84,-,-,-

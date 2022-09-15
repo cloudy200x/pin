@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "train",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "train_id": 1, "train_name": "สถานีรถไฟเชียงใหม่", "train_na_1": "Chiang Mai Railway Station", "lat": 18.7836177, "long": 99.0168009, "x (easting": 501770.58, "y (northin": 2076885.62, "Descriptio": "สถานีรถไฟเชียงใหม่" }, "geometry": { "type": "Point", "coordinates": [ 99.01680103238742, 18.783617969879955 ] } }
+]
+}

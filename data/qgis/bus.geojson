@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "bus",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bus_id": 1, "bus_nameTH": "สถานีขนส่งผู้โดยสารจังหวัดเชียงใหม่ แห่งที่ 1", "bus_nameEN": "Chiang Mai Bus Terminal 1", "lat": 18.7787379, "long": 98.9492341, "x (easting": 494649.86, "y (northin": 2076346.35, "Descriptio": "สถานีขนส่งผู้โดยสารจังหวัดเชียงใหม่ แห่งที่ 1" }, "geometry": { "type": "Point", "coordinates": [ 98.949233991552362, 18.778737961954445 ] } },
+{ "type": "Feature", "properties": { "bus_id": 2, "bus_nameTH": "สถานีขนส่งผู้โดยสารจังหวัดเชียงใหม่ แห่งที่ 3", "bus_nameEN": "Chiang Mai Bus Terminal 3", "lat": 18.8097823, "long": 98.9509661, "x (easting": 494833.34, "y (northin": 2079781.18, "Descriptio": "สถานีขนส่งผู้โดยสารจังหวัดเชียงใหม่ แห่งที่ 3" }, "geometry": { "type": "Point", "coordinates": [ 98.950965996220773, 18.809782016413223 ] } },
+{ "type": "Feature", "properties": { "bus_id": 3, "bus_nameTH": "รถแดงเชียงใหม่", "bus_nameEN": "Chiang Mai red car", "lat": 18.7787307, "long": 99.0395817, "x (easting": 504171.48, "y (northin": 2076345.28, "Descriptio": "รถแดงเชียงใหม่" }, "geometry": { "type": "Point", "coordinates": [ 99.039582027552058, 18.778730995128338 ] } }
+]
+}

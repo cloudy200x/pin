@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Travel in Chiang Mai</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- jQurey -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+   <!-- Bootstrap -->
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Leaflet Ajax -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+    
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">   
+    
+</head>
+
+<body> 
+    
+
+    <nav>
+        <div class="container">
+            <div class="nav-flex">
+
+                <div class="logo">
+                    <h1><a href="index.html">TICM</a> <i class="fas fa-map-marked-alt" style="color: white;"></i></h1> 
+                </div>
+
+                <ul class="menu">
+
+                    <li><a href="map.html">Map</a></li>
+                    <li><a href="tours.html">Recommendation</a></li>
+                    <li><a href="about.html">About</a></li>
+
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+    
+    <div id="mymap" style="height:92vh"></div>
+
+
+    <script>
+
+        // Create Map Object
+        var map = L.map('mymap');
+        map.setView([18.783887, 99.0021492], 13);
+
+        //Loading BaseMap
+        var OpenTopoMap = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+	    maxZoom: 17,
+	    attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
+        }).addTo(map);
+
+        var basemap ={"Topo Map":OpenTopoMap};
+
+        //Load Overlays
+        var lyrNatural = new L.GeoJSON.AJAX("data/qgis/natural.geojson",
+            {
+            onEachFeature: function(feature,layer){
+                layer.bindTooltip(feature.properties.nat_nameTH);
+                layer.bindPopup(feature.properties.Descriptio);
+            }
+            });
+
+        var lyrTemp = new L.GeoJSON.AJAX("data/qgis/temp.geojson",
+            {
+            onEachFeature: function(feature,layer){
+                layer.bindTooltip(feature.properties.temp_nameT);
+                layer.bindPopup(feature.properties.Descriptio);
+            }
+            });
+
+        var lyrFood = new L.GeoJSON.AJAX("data/qgis/food.geojson",
+            {
+            onEachFeature: function(feature,layer){
+                layer.bindTooltip(feature.properties.p_nameTH);
+                layer.bindPopup(feature.properties.descriptio);
+            }
+            });
+
+        var lyrAccomodation = new L.GeoJSON.AJAX("data/qgis/accomodation.geojson",
+            {
+            onEachFeature: function(feature,layer){
+                layer.bindTooltip(feature.properties.accom_name);
+                layer.bindPopup(feature.properties.accom_type);
+            }
+            });
+
+        var lyrAirport = new L.GeoJSON.AJAX("data/qgis/airport.geojson",
+            {
+            onEachFeature: function(feature,layer){
+                layer.bindTooltip(feature.properties.airport_na);
+                layer.bindPopup(feature.properties.Descriptio);
+            }
+            });
+
+        var lyrTrain = new L.GeoJSON.AJAX("data/qgis/train.geojson",
+            {
+            onEachFeature: function(feature,layer){
+                layer.bindTooltip(feature.properties.train_name);
+                layer.bindPopup(feature.properties.Descriptio);
+            }
+            });
+
+        var lyrBus = new L.GeoJSON.AJAX("data/qgis/bus.geojson",
+            {
+            onEachFeature: function(feature,layer){
+                layer.bindTooltip(feature.properties.bus_nameTH);
+                layer.bindPopup(feature.properties.Descriptio);
+            }
+            });
+
+
+        var overlays ={"Natural":lyrNatural,"Temp":lyrTemp,"Food":lyrFood,"Accomodation":lyrAccomodation,"Airport":lyrAirport,"Train":lyrTrain,"Bus":lyrBus};
+
+
+        //Adding Layers Control
+        L.control.layers(basemap,overlays).addTo(map);
+
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Travel in Chiang Mai</title>
+
+    <!-- font-awesome -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css"> -->
+
+   
+    <!-- Bootstrap CSS CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+   
+    <!-- Our Custom CSS -->
+    <link rel="stylesheet" href="sidebar/style.css">
+
+    <!-- Pop up on map CSS -->
+    <link rel="stylesheet" href="https://atlas.microsoft.com/sdk/javascript/mapcontrol/2/atlas.min.css" type="text/css" />
+
+    <!-- Leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+    
+    <!-- Date Picker CSS -->
+    <link rel="stylesheet" media="all" type="text/css" href="jquery-ui.css" />
+    <link rel="stylesheet" media="all" type="text/css" href="jquery-ui-timepicker-addon.css" />
+
+    <!-- Date Picker JS -->
+    <script type="text/javascript" src="jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="jquery-ui.min.js"></script>
+     
+    <script type="text/javascript" src="jquery-ui-timepicker-addon.js"></script>
+    <script type="text/javascript" src="jquery-ui-sliderAccess.js"></script>     
+    
+    <!-- Font Awesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+
+    <!-- Popper.JS -->
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script> -->
+ 
+    <!-- Pop un on map JS -->
+    <script src="https://atlas.microsoft.com/sdk/javascript/mapcontrol/2/atlas.min.js"></script>
+
+    <!-- jQurey -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- Leaflet Ajax -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+
+ 
+</head>
+
+<body>
+   
+
+    <div class="wrapper">
+        <!-- Sidebar  -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <h3><a href="index.html">TICM</a></h3>
+            </div> <!--sidebar-header-->
+
+            <ul class="list-unstyled components">           
+                <li class="active">
+                    <h5><a href="index.html">My Plan</a></h5>
+                    <p> 
+                        <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                            <button contenteditable>My Plan</button>
+                        </a>      
+                    </p>        
+
+                    <ul class="collapse list-unstyled" id="homeSubmenu">
+                        <li>
+                            <a href="#">Day 1</a>
+                        </li>
+                        <li>
+                            <a href="#">Day 2</a>
+                        </li>
+                        <li>
+                            <a href="#">Day 3</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+
+    <!-- Calender -->
+    <span id="startDate">10-Feb-2013</span>
+    <b>To</b>
+    <span id="endDate">20-Feb-2013</span>
+     
+    <script type="text/javascript">
+     
+    $(function(){
+        var minD = $("#startDate").html();
+        var maxD = $("#endDate").html();
+        $("#dateInput").datepicker({
+            dateFormat: 'dd-M-yy',
+            minDate: new Date(minD),
+            maxDate: new Date(maxD)
+        });
+    });
+
+    </script>
+    <input type="text" name="dateInput" id="dateInput" value="" />        
+        </nav>
+
+        
+        
+        <!--test cld
+        <script type="text/javascript">
+    
+            $(function(){
+             
+                var startDateTextBox = $('#dateStart');
+                var endDateTextBox = $('#dateEnd');
+             
+                startDateTextBox.datepicker({
+                    dateFormat: 'dd-M-yy',
+                    onClose: function(dateText, inst) {
+                        if (endDateTextBox.val() != '') {
+                            var testStartDate = startDateTextBox.datetimepicker('getDate');
+                            var testEndDate = endDateTextBox.datetimepicker('getDate');
+                            if (testStartDate > testEndDate)
+                                endDateTextBox.datetimepicker('setDate', testStartDate);
+                        }
+                            else {
+                                 endDateTextBox.val(dateText);
+                        }
+                    },
+                    onSelect: function (selectedDateTime){
+                        ndDateTextBox.datetimepicker('option', 'minDate', 
+                            startDateTextBox.datetimepicker('getDate') );
+                    }
+                });
+                endDateTextBox.datepicker({
+                    dateFormat: 'dd-M-yy',
+                    onClose: function(dateText, inst) {
+                    if (startDateTextBox.val() != '') {
+                        var testEndDate = endDateTextBox.datetimepicker('getDate');
+                        var testEndDate = endDateTextBox.datetimepicker('getDate');
+                        if (testStartDate > testEndDate)
+                            startDateTextBox.datetimepicker('setDate', testEndDate);
+                    }
+                    else {
+                        startDateTextBox.val(dateText);
+                    }
+                },
+                onSelect: function (selectedDateTime){
+                    startDateTextBox.datetimepicker('option', 'maxDate', 
+                    endDateTextBox.datetimepicker('getDate') );
+                }
+            });
+             
+            });
+            
+            </script>
+            Start Date : <input type="text" name="dateStart" id="dateStart" value="" />
+            End Date : <input type="text" name="dateEnd" id="dateEnd" value="" />
+-->
+
+
+
+        <!-- Page Content  -->
+        <div id="content">
+            <div id="mymap" style="height:92vh"></div>
+        </div> <!-- <div id="content"> -->
+    
+    </div> <!-- wrapper --> 
+    
+
+
+    <script>
+
+        // Create Map Object
+        var map = L.map('mymap');
+        map.setView([18.783887, 99.0021492], 13);
+
+        //Loading BaseMap
+        var OpenTopoMap = L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+        maxZoom: 17,
+        attribution: 'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)'
+        }).addTo(map);
+
+        var basemap ={"Topo Map":OpenTopoMap};
+
+        //Load Overlays
+        var lyrNatural = new L.GeoJSON.AJAX("data/qgis/natural.geojson",
+            {
+            onEachFeature: function(feature,layer){
+                layer.bindTooltip(feature.properties.nat_nameTH);
+                layer.bindPopup(feature.properties.Descriptio);
+            }
+            });
+
+        var lyrTemp = new L.GeoJSON.AJAX("data/qgis/temp.geojson",
+            {
+            onEachFeature: function(feature,layer){
+                layer.bindTooltip(feature.properties.temp_nameT);
+                layer.bindPopup(feature.properties.Descriptio);
+            }
+            });
+
+        var lyrFood = new L.GeoJSON.AJAX("data/qgis/food.geojson",
+            {
+            onEachFeature: function(feature,layer){
+                layer.bindTooltip(feature.properties.p_nameTH);
+                layer.bindPopup(feature.properties.descriptio);
+            }
+            });
+
+        var lyrAccomodation = new L.GeoJSON.AJAX("data/qgis/accomodation.geojson",
+            {
+            onEachFeature: function(feature,layer){
+                layer.bindTooltip(feature.properties.accom_name);
+                layer.bindPopup(feature.properties.accom_type);
+            }
+            });
+
+        var lyrAirport = new L.GeoJSON.AJAX("data/qgis/airport.geojson",
+            {
+            onEachFeature: function(feature,layer){
+                layer.bindTooltip(feature.properties.airport_na);
+                layer.bindPopup(feature.properties.Descriptio);
+            }
+            });
+
+        var lyrTrain = new L.GeoJSON.AJAX("data/qgis/train.geojson",
+            {
+            onEachFeature: function(feature,layer){
+                layer.bindTooltip(feature.properties.train_name);
+                layer.bindPopup(feature.properties.Descriptio);
+            }
+            });
+
+        var lyrBus = new L.GeoJSON.AJAX("data/qgis/bus.geojson",
+            {
+            onEachFeature: function(feature,layer){
+                layer.bindTooltip(feature.properties.bus_nameTH);
+                layer.bindPopup(feature.properties.Descriptio);
+            }
+            });
+
+
+        var overlays ={"Natural":lyrNatural,"Temp":lyrTemp,"Food":lyrFood,"Accomodation":lyrAccomodation,"Airport":lyrAirport,"Train":lyrTrain,"Bus":lyrBus};
+
+
+        //Adding Layers Control
+        L.control.layers(basemap,overlays).addTo(map);
+
+
+    </script>
+
+
+</body>
+</html>

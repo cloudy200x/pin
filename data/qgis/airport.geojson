@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "airport",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "airport_id": 1, "airport_na": "ท่าอากาศยานเชียงใหม่", "airport__1": "Chiang Mai International Airport", "lat": 18.767749, "long": 98.9618201, "x (easting": 495976.02, "y (northin": 2075130.14, "Descriptio": "ท่าอากาศยานเชียงใหม่" }, "geometry": { "type": "Point", "coordinates": [ 98.961820031849285, 18.76774896766317 ] } }
+]
+}
